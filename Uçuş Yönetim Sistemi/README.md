@@ -10,4 +10,4 @@
 </ul>
 <br/>
 
-<img src="UML class.jpeg">
+<img src="UML class.png">
